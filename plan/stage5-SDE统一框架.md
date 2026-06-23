@@ -69,7 +69,3 @@
 - 能写出前向/逆向 SDE 与 probability flow ODE，并指出 score 的位置。
 - 能把 DDPM、NCSN 统一进 VP/VE-SDE 框架。
 - 实现了基于 SDE 的训练目标与 Euler-Maruyama 采样器。
-
-<!--
-约定：本文件 ### ☐ 数量 = 8。
--->

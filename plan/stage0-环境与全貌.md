@@ -55,7 +55,3 @@
 - 环境能跑、能画 2D toy 分布与 score 向量场。
 - 能对着对照表，把 DDPM 的每个组件映射到 score 视角。
 - 能口述 score 的定义与直觉，为后面所有阶段打好"共同语言"。
-
-<!--
-约定：本文件 ### ☐ 数量 = 4，必须等于 index.html 该阶段 count 与 tracker tasks.length。
--->

@@ -63,7 +63,3 @@
 - 能独立推导 Hyvärinen 恒等式，并说清每步与边界假设。
 - 实现了 explicit score matching，并用 Langevin 验证采样。
 - 能清楚指出 trace(Jacobian) 的高维瓶颈，理解后续方法的动机。
-
-<!--
-约定：本文件 ### ☐ 数量 = 7。
--->
