@@ -31,11 +31,12 @@
 
 | 入口 | 网址 |
 |------|------|
-| 📖 学习站（阅读文档 + 勾选任务） | 本地双击 `index.html`（在线地址部署后填入） |
-| 📊 打卡面板（进度 / 热力图 / 连续天数） | 本地双击 `tracker/index.html` |
+| 📖 学习站（阅读文档 + 勾选任务） | https://amn765.github.io/score-matching-study/ |
+| 📊 打卡面板（进度 / 热力图 / 连续天数） | https://amn765.github.io/score-matching-study/tracker/ |
+| 💾 GitHub 仓库 | https://github.com/amn765/score-matching-study |
 
-> 暂未部署。本地双击时，学习站 `index.html` 受浏览器安全策略（CORS）限制无法读取 `plan/*.md` 文档内容；
-> **打卡面板 `tracker/index.html` 不受影响，本地双击即可正常使用**。想在手机上读文档、跨设备同步，再部署到 GitHub Pages 即可（随时找我帮你上线）。
+> 已部署到 GitHub Pages，手机浏览器打开后选「添加到主屏幕」即可当 App 用。
+> 两个页面共享同一份进度（同一浏览器内），换设备用面板里的「导出 / 导入进度」同步。
 
 ## 怎么使用这套计划
 
